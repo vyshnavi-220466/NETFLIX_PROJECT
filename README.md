@@ -39,3 +39,18 @@ This project was developed to practice frontend web development by recreating th
 - Multi-page Website Development
 - User Interface Design
 - Frontend Application Development
+
+##   SCREENSHOTS
+
+##   HOMEPAGE
+![homepage](images/netflix_clone.jpeg)
+
+
+##   SIGNUP PAGE
+![signup page](images/signup.jpeg)
+
+##   UPDATE_PROFILE PAGE
+![update_profile page](images/update.jpeg)
+
+##   EDIT_PROFILE PAGE
+![edit_profile] (images/edit_profile.jpeg)
