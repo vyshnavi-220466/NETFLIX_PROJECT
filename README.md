@@ -53,4 +53,4 @@ This project was developed to practice frontend web development by recreating th
 ![update_profile page](images/update.jpeg)
 
 ##   EDIT_PROFILE PAGE
-![edit_profile page] (images/edit_profile.jpeg)
+![edit_profile page](images/edit_profile.jpeg)
